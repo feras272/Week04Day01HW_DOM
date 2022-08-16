@@ -61,10 +61,14 @@
 
 .parag{
     padding: 15px;
+    margin: 20px;
+    border-radius: 12px;
 }
 
 .span{
     word-spacing: 5px;
     letter-spacing: 3px;
+    margin: 5px;
+    border-radius: 12px;
 }
 
