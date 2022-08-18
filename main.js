@@ -35,3 +35,9 @@ console.log(span2.innerHTML);
 console.log('-------------------- Span Paragraph (1) --------------------')
 let spanPar1 = document.querySelector('#spanPar1');
 console.log(spanPar1.innerHTML);
+
+paragraph1.style.fontSize = "20px"
+paragraph2.style.fontSize = "30px"
+paragraph3.style.fontSize = "25px"
+paragraph4.style.fontSize = "25pxpx"
+paragraph5.style.fontSize = "15px"
