@@ -23,3 +23,15 @@ console.log(paragraph4.innerHTML);
 console.log('-------------------- Paragraph (5) --------------------')
 let paragraph5 = document.querySelector('#paragraph5');
 console.log(paragraph5.innerHTML);
+
+console.log('-------------------- Span (1) --------------------')
+let span1 = document.querySelector('#span1');
+console.log(span1.innerHTML);
+
+console.log('-------------------- Span (2) --------------------')
+let span2 = document.querySelector('#span2');
+console.log(span2.innerHTML);
+
+console.log('-------------------- Span Paragraph (1) --------------------')
+let spanPar1 = document.querySelector('#spanPar1');
+console.log(spanPar1.innerHTML);
