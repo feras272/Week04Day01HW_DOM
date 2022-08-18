@@ -41,3 +41,7 @@ paragraph2.style.fontSize = "30px"
 paragraph3.style.fontSize = "25px"
 paragraph4.style.fontSize = "25pxpx"
 paragraph5.style.fontSize = "15px"
+
+span1.style.fontSize = "20px"
+span2.style.fontSize = "25px"
+spanPar1.style.fontSize = "22px"
