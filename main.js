@@ -60,3 +60,6 @@ paragraph4.style.fontFamily = "Serif"
 paragraph5.style.fontSize = "24px"
 span2.style.fontSize = "15px"
 
+// Changing background in tag 6
+span1.style.backgroundColor = "magenta"
+
