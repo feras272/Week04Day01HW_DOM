@@ -52,5 +52,7 @@ spanPar1.style.fontSize = "22px"
 paragraph1.style.color = "meganight"
 paragraph3.style.color = "lightblue"
 
-
+// changing font style in tag 2 and tag 4
+paragraph2.style.fontFamily = "Times New Roman"
+paragraph4.style.fontFamily = "Serif"
 
