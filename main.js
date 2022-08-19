@@ -56,3 +56,7 @@ paragraph3.style.color = "lightblue"
 paragraph2.style.fontFamily = "Times New Roman"
 paragraph4.style.fontFamily = "Serif"
 
+// Changing font size in tag 5 and tag 7 
+paragraph5.style.fontSize = "24px"
+span2.style.fontSize = "15px"
+
